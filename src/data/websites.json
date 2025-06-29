@@ -1,6 +1,12 @@
 {
   "websites": [
     {
+      "name": "Pages",
+      "url": "https://github.com/ajin21/xiaoguku/settings/pages",
+      "description": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
+      "date": "2025-06-29"
+    },
+    {
       "name": "故障文本生成器",
       "url": "https://glitchtextgenerator.app",
       "description": "一款基于AI技术的在线工具，能在几秒内生成独特的扭曲文本特效，它专为数字艺术创作、社交媒体内容及创意项目设计，通过Unicode组合字符实现类似\"Zalgo文本\"的视觉错位效果，完全符合国际字符规范，安全合法",
