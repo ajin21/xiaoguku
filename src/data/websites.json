@@ -1,0 +1,208 @@
+{
+  "websites": [
+    {
+      "name": "故障文本生成器",
+      "url": "https://glitchtextgenerator.app",
+      "description": "一款基于AI技术的在线工具，能在几秒内生成独特的扭曲文本特效，它专为数字艺术创作、社交媒体内容及创意项目设计，通过Unicode组合字符实现类似\"Zalgo文本\"的视觉错位效果，完全符合国际字符规范，安全合法",
+      "date": "2025-06-23"
+    },
+    {
+      "name": "空壳",
+      "url": "https://iofomo.com",
+      "description": "空壳是Android（安卓）平台下应用分身多开应用，分身遵循平台应用规范，轻量且具有很好的兼容性。支持Android 10.0 ~ 15.0系统版本，支持主流应用分身多开，多账号自由，支持应用图标隐藏和属性定制，免费，清爽无广告，更多分身增强功能，等你来体验",
+      "date": "2025-06-23"
+    },
+    {
+      "name": "AudioRelay",
+      "url": "https://audiorelay.net",
+      "description": "一款非常实用的工具，可以将手机变成电脑的无线扬声器或麦克风，免费中文版，支持Windows,Mac,Linux,Android,延迟低，使用简单，通过 Wi-Fi 或 USB 连接，实现几乎无延迟的音频传输，确保音质清晰流畅，传输过程中采用加密技术，保护用户数据安全",
+      "date": "2025-06-23"
+    },
+    {
+      "name": "咔片PPT",
+      "url": "https://cappt.cc",
+      "description": "一款基于人工智能的AI在线PPT制作平台，通过AI技术彻底简化传统演示文稿的设计流程，用户无需设计基础，只需输入主题或关键词，3分钟即可生成涵盖标题、内容、结尾的完整PPT框架，提供一键换肤、智能美化等功能，还支持扩写、精简、润色文本，生成标题等等，10万+场景模板自由替换，彻底告别从零开始的繁琐",
+      "date": "2025-06-23"
+    },
+    {
+      "name": "Labubu Desktop Wallpaper",
+      "url": "https://labubuwallpaper.store",
+      "description": "labubu壁纸网站，免费下载，界面好看，加载速度也不错。提供高质量的Labubu主题桌面壁纸，支持多种分辨率，让你的桌面更加个性化",
+      "date": "2025-06-23"
+    },
+    {
+      "name": "lw动态壁纸",
+      "url": "https://livewallpapers4free.com",
+      "description": "大约有几千个 2K、4K、8K 壁纸，涵盖 3D 动画、动漫、自然、科技、电影、游戏等类别，可下载 MP4 循环视频，再用 Lively Wallpaper、Sucrose Wallpaper 等工具进行设置，资源每日更新，完全免费，无需注册",
+      "date": "2025-06-23"
+    },
+    {
+      "name": "腾讯文档",
+      "url": "https://docs.qq.com",
+      "description": "多人实时协作的在线文档平台，让团队工作更高效",
+      "date": "2025-06-22"
+    },
+    {
+      "name": "飞书",
+      "url": "https://feishu.cn",
+      "description": "字节跳动出品的一站式协作平台，沟通协作更简单",
+      "date": "2025-06-22"
+    },
+    {
+      "name": "语雀",
+      "url": "https://yuque.com",
+      "description": "阿里巴巴的专业云端知识库，构建团队知识体系",
+      "date": "2025-06-22"
+    },
+    {
+      "name": "ProcessOn",
+      "url": "https://processon.com",
+      "description": "专业的在线作图工具，流程图思维导图轻松绘制",
+      "date": "2025-06-22"
+    },
+    {
+      "name": "石墨文档",
+      "url": "https://shimo.im",
+      "description": "轻松便捷的多人协作文档与表格工具",
+      "date": "2025-06-22"
+    },
+    {
+      "name": "B站",
+      "url": "https://bilibili.com",
+      "description": "年轻人聚集的文化社区和视频平台",
+      "date": "2025-06-21"
+    },
+    {
+      "name": "中国大学MOOC",
+      "url": "https://icourse163.org",
+      "description": "网易与高教社携手推出的国家精品课程在线学习平台",
+      "date": "2025-06-21"
+    },
+    {
+      "name": "慕课网",
+      "url": "https://imooc.com",
+      "description": "IT技能学习平台，程序员的梦工厂",
+      "date": "2025-06-21"
+    },
+    {
+      "name": "掘金",
+      "url": "https://juejin.cn",
+      "description": "面向全球中文开发者的技术内容分享与交流平台",
+      "date": "2025-06-21"
+    },
+    {
+      "name": "少数派",
+      "url": "https://sspai.com",
+      "description": "高品质数字生活指南，让你更好地运用数字产品",
+      "date": "2025-06-21"
+    },
+    {
+      "name": "思否",
+      "url": "https://segmentfault.com",
+      "description": "专业的开发者技术问答社区",
+      "date": "2025-06-20"
+    },
+    {
+      "name": "网易云音乐",
+      "url": "https://music.163.com",
+      "description": "音乐的力量，发现音乐之美",
+      "date": "2025-06-20"
+    },
+    {
+      "name": "爱奇艺",
+      "url": "https://iqiyi.com",
+      "description": "悦享品质，专业的在线视频娱乐平台",
+      "date": "2025-06-20"
+    },
+    {
+      "name": "豆瓣",
+      "url": "https://douban.com",
+      "description": "我们的精神角落，发现生活中的美好",
+      "date": "2025-06-20"
+    },
+    {
+      "name": "知乎",
+      "url": "https://zhihu.com",
+      "description": "有问题，就会有答案，中文互联网高质量问答社区",
+      "date": "2025-06-19"
+    },
+    {
+      "name": "QQ音乐",
+      "url": "https://y.qq.com",
+      "description": "听我想听的歌，腾讯音乐娱乐平台",
+      "date": "2025-06-19"
+    },
+    {
+      "name": "优酷",
+      "url": "https://youku.com",
+      "description": "这世界很酷，阿里巴巴文娱集团视频平台",
+      "date": "2025-06-19"
+    },
+    {
+      "name": "淘宝",
+      "url": "https://taobao.com",
+      "description": "淘！我喜欢，亚洲较大的网上交易平台",
+      "date": "2025-06-19"
+    },
+    {
+      "name": "京东",
+      "url": "https://jd.com",
+      "description": "多快好省，只为品质生活",
+      "date": "2025-06-18"
+    },
+    {
+      "name": "小红书",
+      "url": "https://xiaohongshu.com",
+      "description": "标记我的生活，年轻人的生活方式平台",
+      "date": "2025-06-18"
+    },
+    {
+      "name": "什么值得买",
+      "url": "https://smzdm.com",
+      "description": "消费决策平台，让消费更值",
+      "date": "2025-06-18"
+    },
+    {
+      "name": "天猫",
+      "url": "https://tmall.com",
+      "description": "理想生活上天猫，品质购物首选",
+      "date": "2025-06-18"
+    },
+    {
+      "name": "Figma",
+      "url": "https://figma.com",
+      "description": "协作式界面设计工具，设计师的最爱",
+      "date": "2025-06-17"
+    },
+    {
+      "name": "站酷",
+      "url": "https://zcool.com.cn",
+      "description": "设计师互动平台，发现优秀设计",
+      "date": "2025-06-17"
+    },
+    {
+      "name": "Canva",
+      "url": "https://canva.com",
+      "description": "简单易用的在线设计工具，人人都是设计师",
+      "date": "2025-06-17"
+    },
+    {
+      "name": "花瓣网",
+      "url": "https://huaban.com",
+      "description": "设计师寻找灵感的天堂，收集美好事物",
+      "date": "2025-06-17"
+    },
+    {
+      "name": "Dribbble",
+      "url": "https://dribbble.com",
+      "description": "全球设计师作品展示平台，创意无限",
+      "date": "2025-06-16"
+    },
+    {
+      "name": "Behance",
+      "url": "https://behance.net",
+      "description": "Adobe创意作品平台，展示你的创意",
+      "date": "2025-06-16"
+    }
+  ]
+}
