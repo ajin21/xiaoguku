@@ -1,6 +1,12 @@
 {
   "websites": [
     {
+      "name": "Google Gemini",
+      "url": "https://gemini.google.com/app/9db74e3515538e1d",
+      "description": "Gemini 是 Google 为你带来的专属 Al 助理，不仅功能强大，而且主动高效。欢迎免费体验，助你在工作、学习和居家生活中实现各种灵感想法。",
+      "date": "2025-06-29"
+    },
+    {
       "name": "小古资源库 | Link3",
       "url": "https://link3.cc/user",
       "description": "制作你的主页|数字名片|导航页。聚合你的所有信息，到一个永久链接、二维码、个人网页",
