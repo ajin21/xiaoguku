@@ -1,6 +1,18 @@
 {
   "websites": [
     {
+      "name": "虫部落 - 让搜索更简单",
+      "url": "https://www.chongbuluo.com/",
+      "description": "虫部落是一个纯粹的搜索知识、技术和经验分享平台，虫部落快搜、虫部落学术搜索等搜索聚合工具均为虫部落原创出品，搜索世界的乐趣，就在虫部落！",
+      "date": "2025-06-29"
+    },
+    {
+      "name": "Pages",
+      "url": "https://github.com/ajin21/xiaoguku/settings/pages",
+      "description": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
+      "date": "2025-06-29"
+    },
+    {
       "name": "Pages",
       "url": "https://github.com/ajin21/xiaoguku/settings/pages",
       "description": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
