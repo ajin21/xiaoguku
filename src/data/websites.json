@@ -1,6 +1,18 @@
 {
   "websites": [
     {
+      "name": "文叔叔 - 传文件，找文叔叔（大文件、永不限速）",
+      "url": "https://www.wenshushu.cn/",
+      "description": "文叔叔，免费空间 40GB，一款永不限速的云存储产品。传文件、收文件、网盘，还支持历史记录等高级功能。",
+      "date": "2025-06-30"
+    },
+    {
+      "name": "Real-ESRGAN GUI - 实用、美观的 AI 图片放大工具",
+      "url": "https://akarin.dev/realesrgan-gui/",
+      "description": "Real-ESRGAN GUI 是 AI 图像修复算法 Real-ESRGAN 的开源图形界面。轻松放大低分辨率图像，使图像更清晰，观感更出色。 ",
+      "date": "2025-06-30"
+    },
+    {
       "name": "Yt1d - 更好用的油管(YouTube)视频解析下载保存到手机、电脑 | Yt1d",
       "url": "https://yt1d.top/zh-cn",
       "description": "YouTube高清视频解析下载工具支持解析YouTube软件和油管网站上的任何视频,解析出来的视频无水印.是一个免费的在线YouTube下载器,可借助此下载器在电脑或手机上方便的下载保存YouTube平台的视频.",
